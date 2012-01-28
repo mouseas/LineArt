@@ -2,20 +2,17 @@ package {
 	
 	public class ArtPoint {
 		
-		public var x:Number;
-		public var y:Number;
+		public var x:Number = 0;
+		public var y:Number = 0;
 		public var radius:Number;
 		public var rOuter:Number;
 		public var rInner:Number;
 		public var offset:Number;
 		
-		public static const centerX:Number = 430;
-		public static const centerY:Number = 430;
-		public static const offsetX:Number = 430;
-		public static const offsetY:Number = 430;
+		public var offsetX:Number = 430;
+		public var offsetY:Number = 430;
 		
-		public function ArtPoint(_radius:Number, _rOuter:Number, _rInner:Number, _offset:Number) {
-			radius = _radius;
+		public function ArtPoint(_rOuter:Number, _rInner:Number, _offset:Number) {
 			rOuter = _rOuter;
 			rInner = _rInner;
 			offset = _offset;

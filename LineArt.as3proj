@@ -5,9 +5,9 @@
     <movie outputType="Application" />
     <movie input="" />
     <movie path="bin\LineArt.swf" />
-    <movie fps="12" />
-    <movie width="960" />
-    <movie height="960" />
+    <movie fps="30" />
+    <movie width="860" />
+    <movie height="860" />
     <movie version="10" />
     <movie minorVersion="0" />
     <movie platform="Flash Player" />
