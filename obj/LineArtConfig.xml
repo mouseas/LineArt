@@ -28,9 +28,9 @@
     <path-element>C:\Users\Martin\LineArt\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#CCCCCC</default-background-color>
-  <default-frame-rate>12</default-frame-rate>
+  <default-frame-rate>30</default-frame-rate>
   <default-size>
-    <width>960</width>
-    <height>960</height>
+    <width>860</width>
+    <height>860</height>
   </default-size>
 </flex-config>

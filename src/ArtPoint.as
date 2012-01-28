@@ -9,10 +9,10 @@ package {
 		public var rInner:Number;
 		public var offset:Number;
 		
-		public static const centerX:Number = 480;
-		public static const centerY:Number = 480;
-		public static const offsetX:Number = 480;
-		public static const offsetY:Number = 480;
+		public static const centerX:Number = 430;
+		public static const centerY:Number = 430;
+		public static const offsetX:Number = 430;
+		public static const offsetY:Number = 430;
 		
 		public function ArtPoint(_radius:Number, _rOuter:Number, _rInner:Number, _offset:Number) {
 			radius = _radius;
